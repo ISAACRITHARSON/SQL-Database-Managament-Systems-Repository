@@ -6,7 +6,7 @@ Bname Varchar2(18)
 Amount Number(8,2)
 Adate Date*/
 
-CREATE TABLE deposit_1041
+CREATE TABLE deposit_1045
 (
 Actno Varchar2(5),
 Cname Varchar(18),
