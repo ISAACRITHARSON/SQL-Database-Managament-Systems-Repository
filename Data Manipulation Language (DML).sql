@@ -4,7 +4,7 @@ Actno Varchar2(5)
 Cname Varchar(18)
 Bname Varchar2(18)
 Amount Number(8,2)
-Adate Date*
+Adate Date*/
 
 CREATE TABLE deposit_1041
 (
