@@ -21,7 +21,7 @@ City Varchar(18)*/
 CREATE TABLE branch_1041
 (
 Bname Varchar2(5),
-City Varchar(18
+City Varchar(18)
 );
 /*Create a table customer with the following specifications
 Column name Data type
