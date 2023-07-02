@@ -42,7 +42,7 @@ CREATE TABLE borrow_1041
 (
 Loanno Varchar2(5),
 Cname Varchar(18),
-Bname Varchar2(18),
+Bname Varchar2(18)
 Amount Number(8,2)
 );
 
